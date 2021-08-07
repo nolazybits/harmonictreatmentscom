@@ -24,17 +24,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: "The first reaction people have when they hear\n of my healing methods is skepticism. But, that soon changes after their\n first treatment.\n\n## What happens?\n\n*   Almost instant pain relief\n\n*   They\_feel lighter.\n\n*   They feel a warming\_flowing\_through them.\n\n## \"Healing has begun\"\n\nSome people's problems disappear immediately.  \nSome problems take a little longer, but disappear they will.... **money back guarantee**.\n"
     type: content_section
   - type: blog_feed_section
     title: What's New
