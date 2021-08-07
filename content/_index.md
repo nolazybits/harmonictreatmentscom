@@ -25,8 +25,8 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - content: "The first reaction people have when they hear\nof my healing methods is skepticism. But, that soon changes after their\nfirst treatment.\n\n## What happens?\n\n*   Almost instant pain relief\n\n*   They\_feel lighter.\n\n*   They feel a warming\_flowing\_through them.\n\n#### \"Healing has begun\"\n\nSome people's problems disappear immediately.Some problems take a little longer, but disappear they will.... **money back guarantee**.\n\n## No Problem is Too Advanced\n\nHealth problems treated successfully\_include:  
-  *   Addiction
-  *   Diabetes
+  *   Addiction  
+  *   Diabetes  
   *   Asthma
   *   Eczema
   *   Joint problems
