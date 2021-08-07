@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: Contact
     align: center
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
