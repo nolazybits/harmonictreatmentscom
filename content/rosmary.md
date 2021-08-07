@@ -8,7 +8,7 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-![](images/rosmary.jpg)
+![](/images/rosmary.jpg)
 
 The electronic machine you will be treated on is affectionately called "Rosemary". She scans through frequencies that not only change in wavelength, but also the intensity of the wavelength is constantly altering.
 
