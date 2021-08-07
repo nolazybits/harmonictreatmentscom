@@ -34,7 +34,8 @@ sections:
   *   Depression
   *   Heart and blood pressure problems
   *   Pain relief
-  *   And many other ailments with amazing success\n\n*   Animals and pets get excellent results with this form of treatment.\n\nClick on testimonials and videos for reviews of people that have\_had this treatment.\n"
+  *   And many other ailments with amazing success
+  *   Animals and pets get excellent results with this form of treatment.\n\nClick on testimonials and videos for reviews of people that have\_had this treatment.\n"
     type: content_section
   - type: blog_feed_section
     title: What's New
