@@ -2,7 +2,7 @@
 title: Testimonials
 sections:
   - title: Testimonials
-    subtitle: lorem-ipsum
+    subtitle: 'Note: written confirmation of following testimonials available'
     actions: []
     align: left
     image_alt: lorem-ipsum
