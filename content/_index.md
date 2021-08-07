@@ -6,7 +6,7 @@ sections:
     subtitle: She is a the core of the harmonic healing treatment.
     actions:
       - label: Learn More about Rosmary
-        url: /features
+        url: /rosmary
         style: primary
       - label: Contact Us
         url: /contact
