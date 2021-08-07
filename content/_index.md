@@ -5,7 +5,7 @@ sections:
     title: Meet Rosmary
     subtitle: She is a the core of the harmonic healing treatment.
     actions:
-      - label: Learn More
+      - label: Learn More about Rosmary
         url: /features
         style: primary
       - label: Contact Us
