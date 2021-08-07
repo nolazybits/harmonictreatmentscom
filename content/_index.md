@@ -8,7 +8,7 @@ sections:
       - label: Learn More about Rosmary
         url: /rosmary
         style: primary
-      - label: Contact Us
+      - label: Contact Me
         url: /contact
         style: secondary
     align: left
