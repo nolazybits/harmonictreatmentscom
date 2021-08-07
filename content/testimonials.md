@@ -14,9 +14,6 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     type: hero_section
-  - title: lorem-ipsum
-    features: []
-    type: features_section
 seo:
   title: ''
   description: ''
