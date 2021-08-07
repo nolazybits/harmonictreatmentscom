@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: rosmary
 seo:
   title: ''
   description: ''
