@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Contact
     align: center
+  - type: contact_section
 seo:
   title: Contact
   description: This is the contact page
