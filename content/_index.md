@@ -32,7 +32,9 @@ sections:
   *   Joint problems
   *   Cancer
   *   Depression
-  *   Heart and blood pressure problems\n\n*   Pain relief\n\n*   And many other ailments with amazing success\n\n*   Animals and pets get excellent results with this form of treatment.\n\nClick on testimonials and videos for reviews of people that have\_had this treatment.\n"
+  *   Heart and blood pressure problems
+  *   Pain relief
+  *   And many other ailments with amazing success\n\n*   Animals and pets get excellent results with this form of treatment.\n\nClick on testimonials and videos for reviews of people that have\_had this treatment.\n"
     type: content_section
   - type: blog_feed_section
     title: What's New
