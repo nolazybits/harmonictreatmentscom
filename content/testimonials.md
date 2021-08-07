@@ -1,7 +1,7 @@
 ---
 title: Testimonials
 sections:
-  - title: lorem-ipsum
+  - title: Testimonials
     subtitle: lorem-ipsum
     actions: []
     align: left
