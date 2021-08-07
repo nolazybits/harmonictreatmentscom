@@ -1,6 +1,18 @@
 ---
 title: Home
 sections:
+  - content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: >-
@@ -39,18 +51,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
