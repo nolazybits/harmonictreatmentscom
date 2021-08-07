@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Meet Rosmary
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: She is a the core of the harmonic healing treatment.
     actions:
       - label: Learn More
         url: /features
