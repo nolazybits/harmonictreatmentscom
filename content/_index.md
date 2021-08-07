@@ -37,7 +37,7 @@ sections:
   *   And many other ailments with amazing success
   *   Animals and pets get excellent results with this form of treatment.  
   
-  Click on testimonials and videos for reviews of people that have\_had this treatment.\n"
+  Click on testimonials and videos for reviews of people that have\_had this treatment."
     type: content_section
   - type: blog_feed_section
     title: What's New
