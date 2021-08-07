@@ -5,7 +5,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Holistic Healing",
+                "label": "Home",
                 "url": "/holistic_healing",
                 "style": "link"
             },
