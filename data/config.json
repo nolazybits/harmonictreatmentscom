@@ -10,6 +10,14 @@
                 "style": "link"
             },
             {
+                "label": "The Machine",
+                "url": "/rosmary",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Video Testimonials",
                 "url": "https://www.youtube.com/channel/UCEDxuLfCOyIc-nW3n1-5pBA",
                 "style": "link",
@@ -24,14 +32,6 @@
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "primary"
-            },
-            {
-                "label": "The Machine",
-                "url": "/rosmary",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
