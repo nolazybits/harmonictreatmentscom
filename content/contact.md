@@ -4,17 +4,7 @@ sections:
   - type: hero_section
     title: Contact
     align: center
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: "For more Information\_email\_or phone me on 09 6341716\nor email me to <harmonictreatments@gmail.com>\n\nYou can also call into my factory\n\n63 Onehunga Mall, \nAuckland, \nNew Zealand\n\n\nNothing Ventured....... Nothing Gained\n"
     type: content_section
 seo:
   title: Contact
