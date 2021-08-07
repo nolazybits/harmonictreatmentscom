@@ -1,5 +1,5 @@
 ---
-title: rosmary
+title: The Machine
 seo:
   title: ''
   description: ''
