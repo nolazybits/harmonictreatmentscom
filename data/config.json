@@ -18,12 +18,6 @@
                 "type": "action"
             },
             {
-                "label": "Video Testimonials",
-                "url": "https://www.youtube.com/channel/UCEDxuLfCOyIc-nW3n1-5pBA",
-                "style": "link",
-                "new_window": true
-            },
-            {
                 "label": "Testimonials",
                 "url": "/testimonials",
                 "style": "link"
