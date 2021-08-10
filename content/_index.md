@@ -49,5 +49,6 @@ seo:
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
+  description: Get healed using frequency healing
 layout: advanced
 ---
