@@ -26,7 +26,6 @@ sections:
     type: content_section
 seo:
   title: harmonic treatments
-  description: The preview of the Starter theme
   extra:
     - name: 'og:type'
       value: website
