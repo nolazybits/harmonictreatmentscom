@@ -45,7 +45,7 @@ seo:
     - name: 'twitter:title'
       value: Harmonic Treatments
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: Get healed using frequency healing
     - name: 'twitter:image'
       value: images/rosemary.jpg
       relativeUrl: true
