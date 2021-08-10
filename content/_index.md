@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Meet Rosmary
+    title: Meet Rosemary
     subtitle: She is a the core of the harmonic healing treatment.
     actions:
       - label: Learn More about Rosmary
