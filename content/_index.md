@@ -47,7 +47,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Starter theme
     - name: 'twitter:image'
-      value: images/starter-preview.png
+      value: images/rosemary.jpg
       relativeUrl: true
   description: Get healed using frequency healing
 layout: advanced
